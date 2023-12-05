@@ -1,0 +1,30 @@
+.contenedor{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    height: 50px;
+    width: 400px;
+    background-color: rgb(204, 115, 204);
+
+}
+
+a{  
+   margin: 10px;
+    cursor: pointer;
+    color: #fff; 
+}
+
+.col:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    height: 50px;
+    width: 100px;
+
+}
+.alinear{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}

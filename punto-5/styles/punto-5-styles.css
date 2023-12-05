@@ -1,0 +1,27 @@
+#verde{
+    color: green;
+    text-decoration: underline;
+}
+.rojo{
+    color: red;
+}
+.negro{
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+}
+.sub{
+    text-decoration: underline overline;
+}
+.rojo1{
+    color: red;
+    text-decoration: underline;
+}
+.contenedor{
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 700px;
+}
+.azul{
+    color: blue;
+}
